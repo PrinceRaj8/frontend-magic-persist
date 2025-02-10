@@ -1,0 +1,13 @@
+{
+  "name": "persist-ventures-landing",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "styled-components": "^6.0.0",
+    "gsap": "^3.12.2",
+    "framer-motion": "^10.0.0",
+    "three": "^0.154.0",
+    "locomotive-scroll": "^4.1.0"
+  }
+}
